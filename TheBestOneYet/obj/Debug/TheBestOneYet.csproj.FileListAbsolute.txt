@@ -1,0 +1,9 @@
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\bin\Debug\TheBestOneYet.exe.config
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\bin\Debug\TheBestOneYet.exe
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\bin\Debug\TheBestOneYet.pdb
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.Form1.resources
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.Properties.Resources.resources
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.csproj.GenerateResource.cache
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.exe
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.pdb
+C:\Users\miran\source\repos\TheBestOneYet\TheBestOneYet\obj\Debug\TheBestOneYet.csprojAssemblyReference.cache
